@@ -5,7 +5,8 @@ This repository contains the code to process data in the "[3D anatomical landmar
  
 The dataset contains 3D coordinates of anatomic landmarks of the spine, pelvis and lower limb of 813 healthy subjects. Landmarks were computed from the 3D reconstruction of bony structures obtained through biplanar radiography of participants in free-standing position.
 
-![Example of landmarks of the upped endplate of T12 vertebra]("/figures/vertebra.png" "Vertebra T12")
+![Example of landmarks of the upped endplate of T12 vertebra](figures/vertebra.png "Vertebra T12")
+
 
 ## Getting started
 
