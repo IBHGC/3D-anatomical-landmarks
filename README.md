@@ -1,4 +1,6 @@
 
+[![DOI](https://zenodo.org/badge/1172658534.svg)](https://doi.org/10.5281/zenodo.18878390)
+
 # 3D anatomical landmarks
 
 This repository contains the code to process data in the "[3D anatomical landmarks](https://doi.org/10.57745/TJJLD6)" open dataset. The code automatically downloads the data from the repository.
